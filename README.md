@@ -4,7 +4,7 @@ Simple Mail Transfer Protocol (SMTP) is a protocol, which handles sending e-mail
 
 The email module is a library for managing email messages. It is specifically not designed to do any sending of email messages to SMTP, NNTP, or other servers; those are functions of modules such as smtplib and nntplib. The email package attempts to be as RFC-compliant as possible.
 
-Enable Less secure app access to send mail from Gmail Account using this Python GUI. To enable follow the below steps
+Enable Less secure app access to send mail from Gmail Account. To enable follow the below steps
 
 Login to accounts.goole.com -> Click on Security -> Scroll down and Turn On the option called 'Less secure app access'
 
